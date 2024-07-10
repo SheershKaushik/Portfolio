@@ -49,6 +49,13 @@ I successfully transformed our innovative concept into a fully functional applic
    
 This project not only demonstrated my ability to lead a diverse team and manage complex technical implementations but also showcased my proficiency in integrating various advanced technologies to create impactful, real-world solutions.
 
+## ATS 
+To enhance my job application process, I developed an advanced Application Tracking System designed to evaluate the alignment between a resume and a job description. This system analyzes two inputs—the resume and the job description—to identify missing keywords and skills, and estimates the likelihood of the resume being shortlisted by recruiters based on their criteria.
+
+Leveraging machine learning and natural language processing (NLP) techniques, I utilized Python, Large Language Models (LLMs), Generative AI, and the Google Gemini API to build this sophisticated tool. The user interface was seamlessly created using Streamlit.
+
+While originally developed for personal use, this project has significant potential for broader application, benefiting students and professionals by optimizing their job search and application processes.
+
  **Imputation**:
    - **Mean/Median/Mode Imputation**: Missing values are replaced with the mean, median, or mode of the respective feature. This method is simple and quick but may distort the original distribution and relationships in the data.
    - **Random value**: Missing values are replaced with random values ranging between specified limits.
