@@ -1,6 +1,6 @@
 ## Domestic Venturing Analysis
 ## Cultiv8 
-## ATS project
+## Application Tracking System 
 ## Customer Segmentation 
 ## Fraud Transaction Detection 
 ## Flight Price Optimisation 
