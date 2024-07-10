@@ -2,7 +2,7 @@
 Exemplified exceptional focus by channeling my comprehensive knowledge acquired during the Master's degree into a compelling dissertation on 'Effects of Institutions on Domestic Venturing'. This study investigates the impact of institutional factors on domestic venturing using a dataset of 43000 articles (2004-2023). Analytical methods included BERT embedding, cosine similarity, thematic analysis, sentiment analysis, time-series analysis, and word clouds. Findings highlight factors' significance, temporal trends, and their role as catalysts or impediments providing insights for stakeholders, policymakers, and entrepreneurs to inform decision-making and strategic planning. 
 
 ## [II Cultiv8](https://abc)
-Exemplified exceptional focus by channeling my comprehensive knowledge acquired during the Master's degree into a compelling dissertation on 'Effects of Institutions on Domestic Venturing'. This study investigates the impact of institutional factors on domestic venturing using a dataset of 2000 articles (2004-2023). Analytical methods included BERT embedding, cosine similarity, thematic analysis, sentiment analysis, time-series analysis, and word clouds. Findings highlight factors' significance, temporal trends, and their role as catalysts or impediments providing insights for stakeholders, policymakers, and entrepreneurs to inform decision-making and strategic planning. 
+As the Technical Lead for a Durham University team in the Startup Blueprint Challenge, I led the creation of an innovative dashboard for students and travelers. Using Python, Streamlit, Generative AI, LLMs, and the Gemini Pro API, we developed a dynamic tool providing personalized recommendations for attractions, events, dining, and part-time jobs based on the user's live location. This project highlighted my leadership and technical skills in integrating advanced technologies to deliver practical solutions. 
 
 ## [III Application Tracking System](https://abc)
 Exemplified exceptional focus by channeling my comprehensive knowledge acquired during the Master's degree into a compelling dissertation on 'Effects of Institutions on Domestic Venturing'. This study investigates the impact of institutional factors on domestic venturing using a dataset of 2000 articles (2004-2023). Analytical methods included BERT embedding, cosine similarity, thematic analysis, sentiment analysis, time-series analysis, and word clouds. Findings highlight factors' significance, temporal trends, and their role as catalysts or impediments providing insights for stakeholders, policymakers, and entrepreneurs to inform decision-making and strategic planning. 
@@ -41,7 +41,15 @@ Exemplified exceptional focus by channeling my comprehensive knowledge acquired 
 Exemplified exceptional focus by channeling my comprehensive knowledge acquired during the Master's degree into a compelling dissertation on 'Effects of Institutions on Domestic Venturing'. This study investigates the impact of institutional factors on domestic venturing using a dataset of 2000 articles (2004-2023). Analytical methods included BERT embedding, cosine similarity, thematic analysis, sentiment analysis, time-series analysis, and word clouds. Findings highlight factors' significance, temporal trends, and their role as catalysts or impediments providing insights for stakeholders, policymakers, and entrepreneurs to inform decision-making and strategic planning. 
 
 ## Cultiv8 
-Handling missing values in a dataset is crucial for ensuring the quality and reliability of data analysis and machine learning models. Here are several common methods for handling missing values:
+As the Technical Lead for a Durham University team, I spearheaded our participation in the prestigious Startup Blueprint Challenge. Our project aimed to revolutionize the way students and travelers explore new cities by developing an intelligent, user-friendly dashboard.
+
+I successfully transformed our innovative concept into a fully functional application, leveraging cutting-edge technologies including Python, Streamlit, Generative AI, Large Language Models (LLMs), and the Gemini Pro API. The dashboard dynamically provides users with personalized recommendations based on their real-time location, offering a seamless experience to discover:
+
+ - Top attractions and must-visit places
+ - Current and upcoming local events
+ - Popular dining options
+ - Available part-time job opportunities
+This project not only demonstrated my ability to lead a diverse team and manage complex technical implementations but also showcased my proficiency in integrating various advanced technologies to create impactful, real-world solutions.
 
  **Imputation**:
    - **Mean/Median/Mode Imputation**: Missing values are replaced with the mean, median, or mode of the respective feature. This method is simple and quick but may distort the original distribution and relationships in the data.
