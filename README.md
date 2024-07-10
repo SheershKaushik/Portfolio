@@ -41,7 +41,7 @@ Exemplified exceptional focus by channeling my comprehensive knowledge acquired 
 Exemplified exceptional focus by channeling my comprehensive knowledge acquired during the Master's degree into a compelling dissertation on 'Effects of Institutions on Domestic Venturing'. This study investigates the impact of institutional factors on domestic venturing using a dataset of 2000 articles (2004-2023). Analytical methods included BERT embedding, cosine similarity, thematic analysis, sentiment analysis, time-series analysis, and word clouds. Findings highlight factors' significance, temporal trends, and their role as catalysts or impediments providing insights for stakeholders, policymakers, and entrepreneurs to inform decision-making and strategic planning. 
 
 ## Cultiv8 
-As the Technical Lead for a Durham University team, I spearheaded our participation in the prestigious Startup Blueprint Challenge. Our project aimed to revolutionize the way students and travelers explore new cities by developing an intelligent, user-friendly dashboard.
+As the Technical Lead for a Durham University team called Cultiv8, I spearheaded our participation in the prestigious Startup Blueprint Challenge. Our project aimed to revolutionize the way students and travelers explore new cities by developing an intelligent, user-friendly dashboard.
 
 I successfully transformed our innovative concept into a fully functional application, leveraging cutting-edge technologies including Python, Streamlit, Generative AI, Large Language Models (LLMs), and the Gemini Pro API. The dashboard dynamically provides users with personalized recommendations based on their real-time location, offering a seamless experience to discover:
 
