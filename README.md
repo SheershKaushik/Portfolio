@@ -22,7 +22,7 @@ Exemplified exceptional focus by channeling my comprehensive knowledge acquired 
 ## [VIII Drowsiness Detection](https://abc)
 Exemplified exceptional focus by channeling my comprehensive knowledge acquired during the Master's degree into a compelling dissertation on 'Effects of Institutions on Domestic Venturing'. This study investigates the impact of institutional factors on domestic venturing using a dataset of 2000 articles (2004-2023). Analytical methods included BERT embedding, cosine similarity, thematic analysis, sentiment analysis, time-series analysis, and word clouds. Findings highlight factors' significance, temporal trends, and their role as catalysts or impediments providing insights for stakeholders, policymakers, and entrepreneurs to inform decision-making and strategic planning. 
 
-## [IX School exam result prediction](https://abc)
+## [IX School exam result prediction](https://github.com/SheershKaushik/School-Exam)
 Exemplified exceptional focus by channeling my comprehensive knowledge acquired during the Master's degree into a compelling dissertation on 'Effects of Institutions on Domestic Venturing'. This study investigates the impact of institutional factors on domestic venturing using a dataset of 2000 articles (2004-2023). Analytical methods included BERT embedding, cosine similarity, thematic analysis, sentiment analysis, time-series analysis, and word clouds. Findings highlight factors' significance, temporal trends, and their role as catalysts or impediments providing insights for stakeholders, policymakers, and entrepreneurs to inform decision-making and strategic planning. 
 
 ## [X Traffic Signal Recognition](https://abc)
