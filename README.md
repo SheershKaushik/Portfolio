@@ -1,6 +1,45 @@
 ## [Analysing Domestic Venturing](https://abc)
 Exemplified exceptional focus by channeling my comprehensive knowledge acquired during the Master's degree into a compelling dissertation on 'Effects of Institutions on Domestic Venturing'. This study investigates the impact of institutional factors on domestic venturing using a dataset of 2000 articles (2004-2023). Analytical methods included BERT embedding, cosine similarity, thematic analysis, sentiment analysis, time-series analysis, and word clouds. Findings highlight factors' significance, temporal trends, and their role as catalysts or impediments providing insights for stakeholders, policymakers, and entrepreneurs to inform decision-making and strategic planning. 
 
+## [Cultiv8](https://abc)
+Exemplified exceptional focus by channeling my comprehensive knowledge acquired during the Master's degree into a compelling dissertation on 'Effects of Institutions on Domestic Venturing'. This study investigates the impact of institutional factors on domestic venturing using a dataset of 2000 articles (2004-2023). Analytical methods included BERT embedding, cosine similarity, thematic analysis, sentiment analysis, time-series analysis, and word clouds. Findings highlight factors' significance, temporal trends, and their role as catalysts or impediments providing insights for stakeholders, policymakers, and entrepreneurs to inform decision-making and strategic planning. 
+
+## [Application Tracking System](https://abc)
+Exemplified exceptional focus by channeling my comprehensive knowledge acquired during the Master's degree into a compelling dissertation on 'Effects of Institutions on Domestic Venturing'. This study investigates the impact of institutional factors on domestic venturing using a dataset of 2000 articles (2004-2023). Analytical methods included BERT embedding, cosine similarity, thematic analysis, sentiment analysis, time-series analysis, and word clouds. Findings highlight factors' significance, temporal trends, and their role as catalysts or impediments providing insights for stakeholders, policymakers, and entrepreneurs to inform decision-making and strategic planning. 
+
+## [Customer Segmentation](https://abc)
+Exemplified exceptional focus by channeling my comprehensive knowledge acquired during the Master's degree into a compelling dissertation on 'Effects of Institutions on Domestic Venturing'. This study investigates the impact of institutional factors on domestic venturing using a dataset of 2000 articles (2004-2023). Analytical methods included BERT embedding, cosine similarity, thematic analysis, sentiment analysis, time-series analysis, and word clouds. Findings highlight factors' significance, temporal trends, and their role as catalysts or impediments providing insights for stakeholders, policymakers, and entrepreneurs to inform decision-making and strategic planning. 
+
+## [Analysing Domestic Venturing](https://abc)
+Exemplified exceptional focus by channeling my comprehensive knowledge acquired during the Master's degree into a compelling dissertation on 'Effects of Institutions on Domestic Venturing'. This study investigates the impact of institutional factors on domestic venturing using a dataset of 2000 articles (2004-2023). Analytical methods included BERT embedding, cosine similarity, thematic analysis, sentiment analysis, time-series analysis, and word clouds. Findings highlight factors' significance, temporal trends, and their role as catalysts or impediments providing insights for stakeholders, policymakers, and entrepreneurs to inform decision-making and strategic planning. 
+
+## [Fraud Transaction Detection](https://abc)
+Exemplified exceptional focus by channeling my comprehensive knowledge acquired during the Master's degree into a compelling dissertation on 'Effects of Institutions on Domestic Venturing'. This study investigates the impact of institutional factors on domestic venturing using a dataset of 2000 articles (2004-2023). Analytical methods included BERT embedding, cosine similarity, thematic analysis, sentiment analysis, time-series analysis, and word clouds. Findings highlight factors' significance, temporal trends, and their role as catalysts or impediments providing insights for stakeholders, policymakers, and entrepreneurs to inform decision-making and strategic planning. 
+
+## [Flight Price Optimisation ](https://abc)
+Exemplified exceptional focus by channeling my comprehensive knowledge acquired during the Master's degree into a compelling dissertation on 'Effects of Institutions on Domestic Venturing'. This study investigates the impact of institutional factors on domestic venturing using a dataset of 2000 articles (2004-2023). Analytical methods included BERT embedding, cosine similarity, thematic analysis, sentiment analysis, time-series analysis, and word clouds. Findings highlight factors' significance, temporal trends, and their role as catalysts or impediments providing insights for stakeholders, policymakers, and entrepreneurs to inform decision-making and strategic planning. 
+
+## [Drowsiness Detection](https://abc)
+Exemplified exceptional focus by channeling my comprehensive knowledge acquired during the Master's degree into a compelling dissertation on 'Effects of Institutions on Domestic Venturing'. This study investigates the impact of institutional factors on domestic venturing using a dataset of 2000 articles (2004-2023). Analytical methods included BERT embedding, cosine similarity, thematic analysis, sentiment analysis, time-series analysis, and word clouds. Findings highlight factors' significance, temporal trends, and their role as catalysts or impediments providing insights for stakeholders, policymakers, and entrepreneurs to inform decision-making and strategic planning. 
+
+## [School exam result prediction](https://abc)
+Exemplified exceptional focus by channeling my comprehensive knowledge acquired during the Master's degree into a compelling dissertation on 'Effects of Institutions on Domestic Venturing'. This study investigates the impact of institutional factors on domestic venturing using a dataset of 2000 articles (2004-2023). Analytical methods included BERT embedding, cosine similarity, thematic analysis, sentiment analysis, time-series analysis, and word clouds. Findings highlight factors' significance, temporal trends, and their role as catalysts or impediments providing insights for stakeholders, policymakers, and entrepreneurs to inform decision-making and strategic planning. 
+
+## [Traffic Signal Recognition](https://abc)
+Exemplified exceptional focus by channeling my comprehensive knowledge acquired during the Master's degree into a compelling dissertation on 'Effects of Institutions on Domestic Venturing'. This study investigates the impact of institutional factors on domestic venturing using a dataset of 2000 articles (2004-2023). Analytical methods included BERT embedding, cosine similarity, thematic analysis, sentiment analysis, time-series analysis, and word clouds. Findings highlight factors' significance, temporal trends, and their role as catalysts or impediments providing insights for stakeholders, policymakers, and entrepreneurs to inform decision-making and strategic planning. 
+
+## [Fake news Detection](https://abc)
+Exemplified exceptional focus by channeling my comprehensive knowledge acquired during the Master's degree into a compelling dissertation on 'Effects of Institutions on Domestic Venturing'. This study investigates the impact of institutional factors on domestic venturing using a dataset of 2000 articles (2004-2023). Analytical methods included BERT embedding, cosine similarity, thematic analysis, sentiment analysis, time-series analysis, and word clouds. Findings highlight factors' significance, temporal trends, and their role as catalysts or impediments providing insights for stakeholders, policymakers, and entrepreneurs to inform decision-making and strategic planning. 
+
+## [Detecting Parkinson’s](https://abc)
+Exemplified exceptional focus by channeling my comprehensive knowledge acquired during the Master's degree into a compelling dissertation on 'Effects of Institutions on Domestic Venturing'. This study investigates the impact of institutional factors on domestic venturing using a dataset of 2000 articles (2004-2023). Analytical methods included BERT embedding, cosine similarity, thematic analysis, sentiment analysis, time-series analysis, and word clouds. Findings highlight factors' significance, temporal trends, and their role as catalysts or impediments providing insights for stakeholders, policymakers, and entrepreneurs to inform decision-making and strategic planning. 
+
+## [Facial Recognition using Haar Cascade](https://abc)
+Exemplified exceptional focus by channeling my comprehensive knowledge acquired during the Master's degree into a compelling dissertation on 'Effects of Institutions on Domestic Venturing'. This study investigates the impact of institutional factors on domestic venturing using a dataset of 2000 articles (2004-2023). Analytical methods included BERT embedding, cosine similarity, thematic analysis, sentiment analysis, time-series analysis, and word clouds. Findings highlight factors' significance, temporal trends, and their role as catalysts or impediments providing insights for stakeholders, policymakers, and entrepreneurs to inform decision-making and strategic planning. 
+
+## [Breast cancer classification](https://abc)
+Exemplified exceptional focus by channeling my comprehensive knowledge acquired during the Master's degree into a compelling dissertation on 'Effects of Institutions on Domestic Venturing'. This study investigates the impact of institutional factors on domestic venturing using a dataset of 2000 articles (2004-2023). Analytical methods included BERT embedding, cosine similarity, thematic analysis, sentiment analysis, time-series analysis, and word clouds. Findings highlight factors' significance, temporal trends, and their role as catalysts or impediments providing insights for stakeholders, policymakers, and entrepreneurs to inform decision-making and strategic planning. 
+
 ## Cultiv8 
 Handling missing values in a dataset is crucial for ensuring the quality and reliability of data analysis and machine learning models. Here are several common methods for handling missing values:
 
@@ -40,16 +79,7 @@ Handling missing values in a dataset is crucial for ensuring the quality and rel
 
 5. **Special Values**:
    - **Flagging Missing Values**: Missing values can be replaced with a special value (e.g., -999 or NaN) to indicate their absence. This approach maintains the integrity of the dataset but requires careful handling during analysis and modeling.
-## Customer Segmentation 
-## Fraud Transaction Detection 
-## Flight Price Optimisation 
-## Drowsiness Detection 
-## School exam result prediction 
-## Traffic Signal Recognition 
-## Fake news Detection 
-## Detecting Parkinson’s 
-## Facial Recognition using Haar Cescade
-## Breast cancer classification
+
 
 
 
