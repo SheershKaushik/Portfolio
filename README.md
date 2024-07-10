@@ -49,7 +49,7 @@ I successfully transformed our innovative concept into a fully functional applic
  - Current and upcoming local events
  - Popular dining options
  - Available part-time job opportunities
- - 
+   
 This project not only demonstrated my ability to lead a diverse team and manage complex technical implementations but also showcased my proficiency in integrating various advanced technologies to create impactful, real-world solutions.
 
  **Imputation**:
